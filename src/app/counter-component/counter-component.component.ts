@@ -9,7 +9,7 @@ export class CounterComponentComponent implements OnInit {
 
   constructor() { }
 
-  counter = 0;
+  counter = 1;
 
   ngOnInit(): void {
   }
